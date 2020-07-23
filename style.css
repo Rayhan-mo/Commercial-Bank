@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    padding:100px;
+    padding:80px;
     box-sizing: border-box;
 }
 .submit-area{
@@ -26,4 +26,7 @@ body{
     color: #ffffff;
     border-radius: 10px;
     padding: 29px 25px;
+}
+.wallet{
+    padding: 30px;
 }
